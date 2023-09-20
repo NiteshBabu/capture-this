@@ -1,0 +1,19 @@
+{
+  "name": "capture-this",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "Nitesh Babu",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^25.4.0",
+    "electron-webpack": "^2.8.2",
+    "webpack": "^4.46.0"
+  },
+  "dependencies": {
+    "toastr": "^2.1.4"
+  }
+}
